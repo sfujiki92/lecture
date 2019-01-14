@@ -1,0 +1,16 @@
+h2.intro {
+  font-style: italic;
+  color: green;
+  font-family: helvetica;
+}
+
+p.intro {
+  font-family: helvetica;
+  font-size: 15;
+  color: gray;
+}
+
+img.intro {
+  image-orientation: right;
+  image-size: 30px;
+}
